@@ -1,0 +1,123 @@
+####################################################################### 
+# 
+# This file contains crystal structure data downloaded from the 
+# Cambridge Structural Database (CSD) hosted by the Cambridge 
+# Crystallographic Data Centre (CCDC).
+# 
+# Full information about CCDC data access policies and citation 
+# guidelines are available at http://www.ccdc.cam.ac.uk/access/V1 
+# 
+# Audit and citation data items may have been added by the CCDC. 
+# Please retain this information to preserve the provenance of 
+# this file and to allow appropriate attribution of the data. 
+# 
+#######################################################################
+
+data_ADOXHI
+#This CIF has been generated from an entry in the Cambridge Structural Database
+_database_code_depnum_ccdc_archive 'CCDC 1101341'
+_database_code_CSD               ADOXHI
+loop_
+_citation_id
+_citation_doi
+_citation_year
+1 10.1107/S0365110X66002652 1966
+_audit_creation_method           'Created from the CSD'
+_audit_update_record             
+;
+2016-01-09 downloaded from the CCDC.
+;
+_database_code_NBS               500778
+_chemical_formula_moiety         'C15 H20 N3 O9 1+,0.5(C1 H4 O1),I1 1-'
+_chemical_name_systematic        
+'6,11-Diacetylanhydrotetrodotoxin hydroiodide methanol solvate'
+_chemical_absolute_configuration unk
+_diffrn_ambient_temperature      295
+_exptl_crystal_density_diffrn    1.745
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt           0.157
+_refine_ls_wR_factor_gt          0.157
+_diffrn_radiation_probe          x-ray
+_symmetry_cell_setting           monoclinic
+_symmetry_space_group_name_H-M   'P 21'
+_symmetry_Int_Tables_number      4
+_space_group_name_Hall           'P 2yb'
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,1/2+y,-z
+_cell_length_a                   19.340
+_cell_length_b                   14.630
+_cell_length_c                   7.180
+_cell_angle_alpha                90
+_cell_angle_beta                 97.40
+_cell_angle_gamma                90
+_cell_volume                     2014.62
+_cell_formula_units_Z            4
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+C1 C 0.39200 0.28400 0.02900
+C2 C 0.41300 0.52400 -0.18200
+C3 C 0.46500 0.23100 -0.16000
+C4 C 0.36200 0.10700 0.03300
+C5 C 0.49500 0.31900 -0.20400
+C6 C 0.28700 0.49100 0.00600
+C7 C 0.20300 0.50100 -0.02000
+C8 C 0.39500 0.62100 -0.44500
+C9 C 0.34300 0.67400 -0.55900
+C10 C 0.44500 0.22100 0.15500
+C11 C 0.41800 0.37600 0.01300
+C19 C 0.37700 0.43700 -0.15700
+C23 C 0.38100 0.37500 -0.32900
+C30 C 0.34600 0.28000 -0.32700
+C31 C 0.38700 0.23500 -0.15600
+N1 N 0.35500 0.15100 -0.12200
+N2 N 0.33200 0.02500 0.05600
+N3 N 0.40600 0.13700 0.18200
+O1 O 0.49200 0.37800 -0.03300
+O2 O 0.30400 0.43600 -0.14100
+O3 O 0.36400 0.58500 -0.31100
+O4 O 0.45400 0.36500 -0.35400
+O5 O 0.34600 0.22400 -0.49300
+O6 O 0.49300 0.20300 0.02400
+O7 O 0.56100 0.31300 -0.23700
+O8 O 0.32100 0.49500 0.16500
+O9 O 0.45700 0.60900 -0.46400
+C12 C 0.02600 0.01500 -0.35500
+C13 C 0.05500 0.02000 -0.00500
+C14 C 0.11400 -0.11700 0.15800
+C15 C 0.12800 -0.22400 0.14600
+C16 C 0.06100 -0.26400 0.02500
+C17 C 0.04200 -0.22500 -0.16800
+C18 C 0.02900 -0.11300 -0.15200
+C20 C 0.09000 -0.06800 -0.02800
+C21 C 0.14600 -0.26400 0.33800
+C22 C -0.02600 -0.09400 -0.01900
+C24 C -0.00900 -0.14800 0.17500
+C25 C 0.24100 -0.19600 0.05800
+C26 C 0.28700 -0.23900 -0.08600
+C27 C 0.16200 -0.40200 0.48300
+C28 C 0.16500 -0.50300 0.46200
+N4 N 0.01300 -0.06900 -0.32900
+N5 N 0.05100 0.06900 -0.19800
+N6 N 0.01100 0.05500 -0.52300
+O10 O 0.05200 -0.11300 0.26400
+O11 O 0.18000 -0.23900 0.01600
+O12 O 0.15700 -0.35800 0.32900
+O13 O 0.00100 -0.24400 0.13400
+O14 O -0.01300 -0.26400 -0.27400
+O15 O -0.01400 -0.00200 0.02600
+O16 O -0.05700 -0.14000 0.29500
+O17 O 0.26700 -0.14200 0.16600
+O18 O 0.16200 -0.35600 0.63400
+C29 C 0.43300 -0.05100 0.62400
+O19 O 0.39000 -0.03900 0.44700
+I1 I 0.22530 0.00000 -0.39410
+I2 I 0.19020 0.24330 0.19030
+
+#END

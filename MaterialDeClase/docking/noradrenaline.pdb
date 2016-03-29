@@ -1,0 +1,26 @@
+REMARK    NORADRENALINE (LNR)
+REMARK    STRUCTURE TAKEN FROM 3HCD: TRANSFERASE
+REMARK    HPNMT IN COMPLEX WITH NORADRENALINE
+REMARK
+HETATM    1  OAC LNR L 502      27.958  45.924  15.159  1.00 54.22
+HETATM    2  CAJ LNR L 502      28.127  44.827  16.022  1.00 52.36
+HETATM    3  CAG LNR L 502      28.552  44.968  17.345  1.00 46.22
+HETATM    4  CAI LNR L 502      27.828  43.561  15.533  1.00 52.70
+HETATM    5  OAB LNR L 502      27.494  43.386  14.198  1.00 49.05
+HETATM    6  CAE LNR L 502      27.943  42.429  16.324  1.00 51.54
+HETATM    7  CAF LNR L 502      28.357  42.566  17.636  1.00 49.02
+HETATM    8  CAK LNR L 502      28.668  43.824  18.151  1.00 49.96
+HETATM    9  CAL LNR L 502      29.079  43.924  19.631  1.00 50.86
+HETATM   10  OAD LNR L 502      30.422  43.604  19.874  1.00 49.00
+HETATM   11  CAH LNR L 502      28.756  45.315  20.160  1.00 49.87
+HETATM   12  NAA LNR L 502      29.507  45.556  21.374  1.00 53.61
+CONECT    1    2                             
+CONECT    2    3    4                        
+CONECT    3    8                             
+CONECT    4    5    6                        
+CONECT    6    7                             
+CONECT    7    8                             
+CONECT    8    9                             
+CONECT    9   10   11                        
+CONECT   11   12                             
+END

@@ -1,0 +1,50 @@
+REMARK    CORTISONE (PDN)
+REMARK    STRUCTURE TAKEN FROM 3EAU: TRANSPORT PROTEIN, OXIDOREDUCTASE
+REMARK    VOLTAGE-DEPENDENT K+ CHANNEL BETA SUBUNIT IN COMPLEX WITH CORTISONE
+REMARK
+HETATM    1  C1  PDN L 501      24.147  63.920  22.906  1.00 34.22
+HETATM    2  C2  PDN L 501      24.137  65.261  22.913  1.00 37.01
+HETATM    3  C3  PDN L 501      23.689  66.005  21.881  1.00 38.05
+HETATM    4  C4  PDN L 501      22.965  65.481  20.913  1.00 35.92
+HETATM    5  C5  PDN L 501      22.660  64.210  20.907  1.00 33.83
+HETATM    6  C6  PDN L 501      21.958  63.705  19.898  1.00 33.06
+HETATM    7  C7  PDN L 501      21.884  62.431  19.520  1.00 31.22
+HETATM    8  C8  PDN L 501      22.576  61.421  20.467  1.00 30.06
+HETATM    9  C9  PDN L 501      23.528  61.974  21.441  1.00 30.48
+HETATM   10  C10 PDN L 501      23.186  63.320  22.018  1.00 33.16
+HETATM   11  C11 PDN L 501      24.081  60.955  22.378  1.00 28.67
+HETATM   12  C12 PDN L 501      24.584  59.654  21.756  1.00 27.86
+HETATM   13  C13 PDN L 501      23.567  59.128  20.910  1.00 28.04
+HETATM   14  C14 PDN L 501      23.075  60.139  19.839  1.00 29.33
+HETATM   15  C15 PDN L 501      22.275  59.332  18.926  1.00 29.20
+HETATM   16  C16 PDN L 501      22.809  57.844  19.101  1.00 28.69
+HETATM   17  C17 PDN L 501      23.985  57.976  19.980  1.00 27.87
+HETATM   18  C18 PDN L 501      22.444  58.830  21.829  1.00 28.18
+HETATM   19  C19 PDN L 501      22.078  63.181  23.021  1.00 33.40
+HETATM   20  C20 PDN L 501      24.474  56.685  20.790  1.00 27.28
+HETATM   21  C21 PDN L 501      23.519  55.578  21.116  1.00 27.63
+HETATM   22  O1  PDN L 501      24.033  67.153  21.823  1.00 40.16
+HETATM   23  O2  PDN L 501      24.101  61.152  23.489  1.00 27.41
+HETATM   24  O3  PDN L 501      24.957  58.297  19.127  1.00 27.46
+HETATM   25  O4  PDN L 501      25.510  56.562  21.154  1.00 21.22
+HETATM   26  O5  PDN L 501      23.676  55.001  22.294  1.00 28.03
+CONECT    1    2   10                        
+CONECT    2    3                             
+CONECT    3    4   22                        
+CONECT    4    5                             
+CONECT    5    6   10                        
+CONECT    6    7                             
+CONECT    7    8                             
+CONECT    8    9   14                        
+CONECT    9   10   11                        
+CONECT   10   19                             
+CONECT   11   12   23                        
+CONECT   12   13                             
+CONECT   13   14   17   18                   
+CONECT   14   15                             
+CONECT   15   16                             
+CONECT   16   17                             
+CONECT   17   20   24                        
+CONECT   20   21   25                        
+CONECT   21   26                             
+END
