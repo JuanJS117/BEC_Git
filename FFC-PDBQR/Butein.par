@@ -1,0 +1,84 @@
+* ---- 
+* Built parameters for Butein.mol2 
+*    by user vzoete     Thu Apr  7 21:33:50 CEST 2016 
+* ---- 
+*
+
+BONDS
+CB   CB    401.068     1.3740 
+CB   HCMM  381.853     1.0840 
+CB   OR    404.019     1.3760 
+CB   C=C   360.335     1.4490 
+C=C  C=C   684.039     1.3330 
+C=C  HCMM  372.066     1.0830 
+C=C  C=O   328.526     1.4680 
+C=O  O=C   931.963     1.2220 
+C=O  CB    322.985     1.4570 
+OR   HOCC  564.143     0.9730 
+
+ANGLES
+CB   CB   CB     48.145    119.9770 
+CB   CB   HCMM   40.517    120.5710 
+CB   CB   OR     69.663    116.4950 
+CB   CB   C=C    51.240    119.6950 
+CB   CB   C=O    57.429    114.4750 
+CB   C=C  C=C    43.035    117.5080 
+CB   C=C  HCMM   35.335    117.4230 
+C=C  C=C  HCMM   38.502    121.0040 
+C=C  C=C  C=O    39.221    111.2970 
+C=O  C=C  HCMM   35.047    117.2910 
+CB   C=O  C=C    70.023    112.9350 
+CB   C=O  O=C    52.823    119.9680 
+C=C  C=O  O=C    67.360    122.6230 
+CB   OR   HOCC   52.247    105.4090 
+
+DIHEDRALS
+CB   CB   CB   CB       3.500  2   180.00 
+CB   CB   CB   OR       3.500  2   180.00 
+CB   CB   CB   HCMM     3.500  2   180.00 
+CB   CB   C=C  C=C      0.771  2   180.00 
+CB   CB   C=C  C=C      0.217  3     0.00 
+CB   CB   C=C  HCMM     0.654  2   180.00 
+CB   CB   C=C  HCMM    -0.178  3     0.00 
+CB   CB   CB   C=C      3.500  2   180.00 
+CB   CB   OR   HOCC     1.401  2   180.00 
+CB   C=C  C=C  C=O      0.900  2   180.00 
+CB   C=C  C=C  HCMM     0.900  2   180.00 
+CB   C=O  C=C  C=C      1.250  2   180.00 
+CB   C=O  C=C  HCMM     1.250  2   180.00 
+CB   CB   C=O  C=C      1.250  2   180.00 
+CB   CB   C=O  O=C      1.250  2   180.00 
+CB   CB   CB   C=O      3.500  2   180.00 
+C=C  CB   CB   HCMM     1.000  2   180.00 
+C=C  C=C  C=O  O=C      0.181  1     0.00 
+C=C  C=C  C=O  O=C      0.989  2   180.00 
+C=O  CB   CB   HCMM     1.000  2   180.00 
+C=O  CB   CB   OR       1.000  2   180.00 
+C=O  C=C  C=C  HCMM     0.900  2   180.00 
+O=C  C=O  C=C  HCMM     1.250  2   180.00 
+OR   CB   CB   HCMM     3.500  2   180.00 
+OR   CB   CB   OR       3.500  2   180.00 
+HCMM CB   CB   HCMM     3.500  2   180.00 
+HCMM C=C  C=C  HCMM     6.000  2   180.00 
+
+IMPROPER
+CB   CB   CB   HCMM     1.079  0     0.00 
+CB   CB   CB   OR       3.454  0     0.00 
+CB   OR   CB   CB       3.454  0     0.00 
+CB   CB   CB   C=C      2.231  0     0.00 
+C=C  C=C  CB   HCMM     1.223  0     0.00 
+C=C  C=O  C=C  HCMM     0.864  0     0.00 
+C=O  CB   C=C  O=C      9.356  0     0.00 
+CB   CB   C=O  CB       1.943  0     0.00 
+
+NONBONDED nbxmod  5 atom cdiel shift vatom vdistance vswitch - 
+cutnb 14.0 ctofnb 12.0 ctonnb 10.0 eps 1.0 e14fac 1.0 wmin 1.5 
+CB      0.000000  -0.070000     1.992400    
+C=C     0.000000  -0.068000     2.090000    
+C=O     0.000000  -0.110000     2.000000    
+O=C     0.000000  -0.120000     1.700000   0.000000  -0.120000     1.400000    
+OR      0.000000  -0.152100     1.770000    
+HCMM    0.000000  -0.022000     1.320000    
+HOCC    0.000000  -0.046000     0.224500    
+
+
